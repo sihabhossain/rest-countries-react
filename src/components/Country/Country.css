@@ -1,0 +1,10 @@
+.country{
+    background-color: cadetblue;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.country img{
+    width: 150px;
+}
